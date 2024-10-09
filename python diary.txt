@@ -1,0 +1,24 @@
+hello!
+welcome to "my python diary":D
+covered:(leaving well known)
+:)if else n elif 
+:)for loop
+
+
+tech with tim 
+free code camp
+practice:replit.com
+exercism muducha aprm geeks for geekscheatsheet programmming with mosh
+
+nested for loop is mainly used for pattern programs likeis"imppoodandu"
+output:
+
+1
+12
+123
+1234
+syntax:
+for i in range(1):
+	print()#verum  print() kudutha program adutha adutha line ku pogumn see output adhula 1 ku mela gap irukum
+		for j in range(1,i+1):
+			print(j,end="")
